@@ -19,7 +19,7 @@ export default function Home() {
           property="og:description"
           content="Hurray!! Yes Social Media Preview is Working"
         />
-        <meta property="og:image" content={"https://styles/assetsOptimized/ourStory/StoreFront.jpeg"} />
+        <meta property="og:image" content={"https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"} />
       </Head>
       <h2>
         Hurray!!! The Website is Complete. Lets Try Social Media Preview Now
